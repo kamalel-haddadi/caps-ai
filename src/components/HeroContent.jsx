@@ -29,7 +29,7 @@ function HeroContent() {
                             <p className="max-w-xl mt-2 text-base text-center text-white">
                                 Elevate your social media game with AI-powered caption generation and scheduling.
                             </p>
-                            <div className="items-center justify-center hidden mt-6 lg:flex gap-x-4">
+                            <div className="items-center justify-center mt-6 lg:flex gap-x-4">
                                 <a href="#" className="inline-flex relative overflow-hidden items-center justify-center whitespace-nowrap text-sm font-medium ring-offset-background transition transform focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 active:scale-95 active:ring-2 active:ring-offset-2 active:ring-offset-background active:ring-ring active:ring-opacity-50 group select-none bg-[#ea580c] text-primary-foreground hover:opacity-70 hover:ring-4 hover:ring-primary/10 h-11 rounded-md px-8">Start For Free</a>
                                 <a href="#" className="relative overflow-hidden  justify-center whitespace-nowrap text-sm text-white ring-offset-[#ea580c] transition transform focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 active:scale-95 active:ring-2 active:ring-offset-2 active:ring-offset-[#ea580c] active:ring-[#ea580c] active:ring-opacity-50 group select-none text-secondary-foreground btn-secondary font-normal h-11 rounded-md px-8 flex items-center">How it works</a>
                             </div>
