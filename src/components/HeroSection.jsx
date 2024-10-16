@@ -11,9 +11,9 @@ function HeroSection() {
                 <div className="absolute z-10 top-[-60px] left-[calc(50%-433px/2)] bg-[#ea580c99] opacity-50 rounded-full blur-[15rem] w-[433px] h-[525px]  lg:flex"></div>
                 {/* background glow effect */}
                 <div className="hero relative flex flex-col items-center justify-center w-full py-20 bg-[#040102]">
-                    <section className="flex flex-col items-center justify-center w-full md:w-11/12 pb-8 mt-8 lg:max-w-screen-xl lg:items-start lg:mx-auto">
+                    <section className="flex flex-col items-center justify-center w-full md:w-11/12 pb-8 mt-8 lg:max-w-screen-xl lg:items-center lg:mx-auto">
                         {/* site structer from here */}
-                        <div className="relative flex flex-col items-start justify-center w-full mx-auto">
+                        <div className="relative flex flex-col items-center justify-center w-full mx-auto">
                             <div className="mx-auto relative flex flex-col  items-cennter justify-center w-full">
                                 {/* site structer to here */}
                                 {/* content */}
