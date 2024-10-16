@@ -1,0 +1,28 @@
+.tag{
+    display: flex;
+    align-items: center;
+    gap: 0 0.2rem;
+    color: red;
+    font-size: 0.9rem;
+    /* background-color: #5eff00; */
+    /* border-radius: 0.4rem; */
+    padding: 0.7rem 1rem;
+    margin-right: 1rem;
+    white-space: nowrap;
+}
+  .fade {
+    pointer-events: none;
+    background: linear-gradient(90deg, #ffffff, transparent 30%, transparent 70%, #ffffff);
+    position: absolute;
+    inset: 0;
+  }
+  
+  @keyframes scroll {
+    0% {
+      transform: translateX(0);
+    }
+
+    100% {
+      transform: translateX(-100%);
+    }
+  }
