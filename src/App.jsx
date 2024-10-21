@@ -5,7 +5,7 @@ import './App.css'
 import { Mail } from "lucide-react";
 import Navbar from "./components/Navbar";
 import HeroSection from "./components/HeroSection";
-import Footer from "./components/Footer";
+// import Footer from "./components/Footer";
 
 
 function App() {
@@ -13,7 +13,7 @@ function App() {
     <>
       <Navbar />
       <HeroSection />
-      <Footer />
+      {/* <Footer /> */}
 
     </>
   )

@@ -2,6 +2,7 @@ import HeroContent from './HeroContent'; // New component
 import CustomerFeedback from './CustomerFeedback';
 // import styles from '../assets/mystyle.module.css';
 import Slider from 'react-infinite-logo-slider'
+import Footer from "./Footer.jsx";
 function HeroSection() {
     return (
         <>
@@ -692,6 +693,8 @@ function HeroSection() {
 
                                     </div>
                                 </div>
+
+                                <Footer />
                             </div>
                         </div>
 
